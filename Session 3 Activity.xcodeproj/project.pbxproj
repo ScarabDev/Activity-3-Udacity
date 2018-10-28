@@ -58,11 +58,11 @@
 			children = (
 				337CB8502121A708001C3FB9 /* AppDelegate.swift */,
 				337CB8522121A708001C3FB9 /* ViewController.swift */,
+				335EB9B8213C18C40025CE53 /* LoginViewController.swift */,
 				337CB8542121A708001C3FB9 /* Main.storyboard */,
 				337CB8572121A70A001C3FB9 /* Assets.xcassets */,
 				337CB8592121A70A001C3FB9 /* LaunchScreen.storyboard */,
 				337CB85C2121A70A001C3FB9 /* Info.plist */,
-				335EB9B8213C18C40025CE53 /* LoginViewController.swift */,
 			);
 			path = "Session 3 Activity";
 			sourceTree = "<group>";
